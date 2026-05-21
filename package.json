@@ -1,0 +1,32 @@
+{
+  "name": "pleny-brand-transformer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zuck2001/pleny-brand-transformer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/zuck2001/pleny-brand-transformer/issues"
+  },
+  "homepage": "https://github.com/zuck2001/pleny-brand-transformer#readme",
+  "dependencies": {
+    "@faker-js/faker": "^10.4.0",
+    "dotenv": "^17.4.2",
+    "exceljs": "^4.4.0",
+    "mongoose": "^9.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  }
+}

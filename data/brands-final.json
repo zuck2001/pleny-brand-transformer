@@ -1,0 +1,202 @@
+[
+  {
+    "_id": "66069ff93007b006635c0245",
+    "brandName": "Ward, Hand and Ortiz",
+    "headquarters": "Jastside",
+    "numberOfLocations": 2132,
+    "createdAt": "2026-05-21T12:29:13.532Z",
+    "updatedAt": "2026-05-21T12:29:13.625Z",
+    "__v": 0,
+    "yearFounded": 1600
+  },
+  {
+    "_id": "66069ff93007b006635c0246",
+    "brandName": "Ergonomic Frozen Bacon",
+    "headquarters": "Gavinstead",
+    "createdAt": "2026-05-21T12:29:13.556Z",
+    "updatedAt": "2026-05-21T12:29:13.659Z",
+    "__v": 0,
+    "numberOfLocations": 1,
+    "yearFounded": 1600
+  },
+  {
+    "_id": "66069ff93007b006635c0247",
+    "brandName": "Breitenberg, Greenholt and Ledner",
+    "yearFounded": 1982,
+    "headquarters": "Fort Lenna",
+    "numberOfLocations": 1000,
+    "createdAt": "2026-05-21T12:29:13.563Z",
+    "updatedAt": "2026-05-21T12:29:13.666Z",
+    "__v": 0
+  },
+  {
+    "_id": "66069ff93007b006635c0248",
+    "brandName": "Modern Granite Fish",
+    "yearFounded": 1600,
+    "headquarters": "Kundebury",
+    "createdAt": "2026-05-21T12:29:13.568Z",
+    "updatedAt": "2026-05-21T12:29:13.677Z",
+    "__v": 0,
+    "numberOfLocations": 1
+  },
+  {
+    "_id": "66069ff93007b006635c0249",
+    "brandName": "Gorgeous Granite Pizza",
+    "headquarters": "Jonesborough",
+    "createdAt": "2026-05-21T12:29:13.578Z",
+    "updatedAt": "2026-05-21T12:29:13.684Z",
+    "__v": 0,
+    "numberOfLocations": 1,
+    "yearFounded": 1600
+  },
+  {
+    "_id": "66069ff93007b006635c024a",
+    "brandName": "Oriental Plastic Pants",
+    "yearFounded": 1600,
+    "headquarters": "Wardfort",
+    "createdAt": "2026-05-21T12:29:13.583Z",
+    "updatedAt": "2026-05-21T12:29:13.697Z",
+    "__v": 0,
+    "numberOfLocations": 1
+  },
+  {
+    "_id": "66069ff93007b006635c024b",
+    "brandName": "Refined Granite Towels",
+    "headquarters": "Lemkeland",
+    "createdAt": "2026-05-21T12:29:13.589Z",
+    "updatedAt": "2026-05-21T12:29:13.708Z",
+    "__v": 0,
+    "numberOfLocations": 1,
+    "yearFounded": 1600
+  },
+  {
+    "_id": "66069ff93007b006635c024c",
+    "brandName": "Corkery Inc",
+    "yearFounded": 1935,
+    "numberOfLocations": 9200,
+    "createdAt": "2026-05-21T12:29:13.594Z",
+    "updatedAt": "2026-05-21T12:29:13.717Z",
+    "__v": 0,
+    "headquarters": "Unknown HQ"
+  },
+  {
+    "_id": "66069ff93007b006635c024d",
+    "headquarters": "West Mylesboro",
+    "createdAt": "2026-05-21T12:29:13.600Z",
+    "updatedAt": "2026-05-21T12:29:13.731Z",
+    "__v": 0,
+    "brandName": "Unknown Brand",
+    "numberOfLocations": 1,
+    "yearFounded": 1600
+  },
+  {
+    "_id": "66069ff93007b006635c024e",
+    "brandName": "Generic Cotton Pizza",
+    "headquarters": "North Ralphport",
+    "createdAt": "2026-05-21T12:29:13.605Z",
+    "updatedAt": "2026-05-21T12:29:13.745Z",
+    "__v": 0,
+    "numberOfLocations": 1,
+    "yearFounded": 1600
+  },
+  {
+    "_id": "6a0efb3d78fba29979a7d778",
+    "brandName": "Brand 1 - Standard modern brand",
+    "yearFounded": 2010,
+    "headquarters": "New York, USA",
+    "numberOfLocations": 150,
+    "createdAt": "2026-05-21T12:31:57.211Z",
+    "updatedAt": "2026-05-21T12:31:57.211Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a0efb3d78fba29979a7d779",
+    "brandName": "Brand 2 - Very old brand (minimum year)",
+    "yearFounded": 1600,
+    "headquarters": "London, UK",
+    "numberOfLocations": 2,
+    "createdAt": "2026-05-21T12:31:57.242Z",
+    "updatedAt": "2026-05-21T12:31:57.242Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a0efb3d78fba29979a7d77a",
+    "brandName": "Brand 3 - Brand with huge locations",
+    "yearFounded": 2005,
+    "headquarters": "Tokyo, Japan",
+    "numberOfLocations": 5000,
+    "createdAt": "2026-05-21T12:31:57.249Z",
+    "updatedAt": "2026-05-21T12:31:57.249Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a0efb3d78fba29979a7d77b",
+    "brandName": "Brand 4 - Single location brand",
+    "yearFounded": 2023,
+    "headquarters": "Berlin, Germany",
+    "numberOfLocations": 1,
+    "createdAt": "2026-05-21T12:31:57.256Z",
+    "updatedAt": "2026-05-21T12:31:57.256Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a0efb3d78fba29979a7d77c",
+    "brandName": "Brand 5 - Brand with year exactly current year",
+    "yearFounded": 2026,
+    "headquarters": "Paris, France",
+    "numberOfLocations": 10,
+    "createdAt": "2026-05-21T12:31:57.267Z",
+    "updatedAt": "2026-05-21T12:31:57.267Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a0efb3d78fba29979a7d77d",
+    "brandName": "Brand 6 - Missing headquarters (will use fallback)",
+    "yearFounded": 1990,
+    "headquarters": "Lake Marvin, Virgin Islands, U.S.",
+    "numberOfLocations": 45,
+    "createdAt": "2026-05-21T12:31:57.281Z",
+    "updatedAt": "2026-05-21T12:31:57.281Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a0efb3d78fba29979a7d77e",
+    "brandName": "Windler - Friesen",
+    "yearFounded": 1935,
+    "headquarters": "North Jaunita",
+    "numberOfLocations": 164,
+    "createdAt": "2026-05-21T12:31:57.287Z",
+    "updatedAt": "2026-05-21T12:31:57.287Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a0efb3d78fba29979a7d77f",
+    "brandName": "Heller LLC facilitate interactive solutions",
+    "yearFounded": 1985,
+    "headquarters": "Rome, Italy",
+    "numberOfLocations": 80,
+    "createdAt": "2026-05-21T12:31:57.298Z",
+    "updatedAt": "2026-05-21T12:31:57.298Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a0efb3d78fba29979a7d780",
+    "brandName": "Brand 9 - Brand from emerging market",
+    "yearFounded": 2018,
+    "headquarters": "Mumbai, India",
+    "numberOfLocations": 300,
+    "createdAt": "2026-05-21T12:31:57.305Z",
+    "updatedAt": "2026-05-21T12:31:57.305Z",
+    "__v": 0
+  },
+  {
+    "_id": "6a0efb3d78fba29979a7d781",
+    "brandName": "Brand 10 - Year 1800 near minimum",
+    "yearFounded": 1800,
+    "headquarters": "Madrid, Spain",
+    "numberOfLocations": 25,
+    "createdAt": "2026-05-21T12:31:57.315Z",
+    "updatedAt": "2026-05-21T12:31:57.315Z",
+    "__v": 0
+  }
+]
